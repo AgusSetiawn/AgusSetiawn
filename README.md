@@ -1,7 +1,7 @@
 <h1 align="center">𝐇𝐢 👋, 𝐈'𝐦 𝐗𝐳𝐞𝐫𝐨𝐎𝐧𝐞𝐞 𝐀.𝐊.𝐀 𝐀𝐠𝐮𝐬 𝐒𝐞𝐭𝐢𝐚𝐰𝐚𝐧</h1>
 <h3 align="center">𝐈'𝐦 𝐢𝐧𝐭𝐨 𝐜𝐨𝐝𝐢𝐧𝐠 𝐚𝐧𝐝 𝐝𝐢𝐯𝐢𝐧𝐠 𝐝𝐞𝐞𝐩 𝐢𝐧𝐭𝐨 𝐢𝐭. 𝐀𝐥𝐬𝐨, 𝐈 𝐞𝐧𝐣𝐨𝐲 𝐞𝐝𝐢𝐭𝐢𝐧𝐠 𝐚𝐧𝐝 𝐠𝐞𝐭𝐭𝐢𝐧𝐠 𝐢𝐧𝐭𝐨 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡 𝐬𝐭𝐮𝐟𝐟</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xzeroonee&label=Profile%20views&color=0e75b6&style=flat" alt="AgusSetiaen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xzeroonee&label=Profile%20views&color=0e75b6&style=flat" alt="AgusSetiawn" /> </p>
 
 - 📖 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴛᴜᴅʏɪɴɢ ᴏɴ **Pelita Bangsa University**
 
