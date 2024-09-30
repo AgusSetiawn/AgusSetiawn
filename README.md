@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AgusSetiawn&label=Profile%20views&color=0e75b6&style=flat" alt="AgusSetiawn" /> </p>
 
-- 📖 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴛᴜᴅʏɪɴɢ ᴏɴ **Pelita Bangsa University**
+- 📖 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴛᴜᴅʏɪɴɢ ᴏɴ **𝙋𝙚𝙡𝙞𝙩𝙖 𝘽𝙖𝙣𝙜𝙨𝙖 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮**
 
-- 👨‍💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **css,javascript,java,python**
+- 👨‍💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **𝙘𝙨𝙨,𝙟𝙖𝙫𝙖𝙨𝙘𝙧𝙞𝙥𝙩,𝙟𝙖𝙫𝙖,𝙥𝙮𝙩𝙝𝙤𝙣**
 
-- 📩 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **agussetiawans2023@gmail.com**
+- 📩 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **𝙖𝙜𝙪𝙨𝙨𝙚𝙩𝙞𝙖𝙬𝙖𝙣𝙨2023@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢**
 
 - ⚡ ꜰᴜɴ ꜰᴀᴄᴛ **I hate my self**
 
