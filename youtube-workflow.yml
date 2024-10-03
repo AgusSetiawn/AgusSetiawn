@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: AgusSetiawn/github-readme-youtube-cards@main
         with:
-          channel_id: UCipSxT7a3rn81vGLw9lqRkg
+          channel_id: UCmbefdA6ph8q_Fxy2D9hK0Q
           comment_tag_name: YOUTUBE-CARDS
           max_title_lines: 2
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
