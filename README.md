@@ -20,6 +20,16 @@
       <a href="https://github.com/AgusSetiawn?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AgusSetiawn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
+   
+### 🔥 My Popular Videos
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=RDGUkLjTYV0&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1728346630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/RDGUkLjTYV0?si=v5tv3RdsHvXaCPIw)
+[![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=MjmvnrquYD4&title=Tips+and+advice+for+Computer+Science+students&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Tips and advice for Computer Science students")](https://youtu.be/MjmvnrquYD4?si=mbfnKEt4DEL-LVEP)
+<!-- END YOUTUBE-CARDS -->
 
 <hr>
 
