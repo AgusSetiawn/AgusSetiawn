@@ -1,4 +1,4 @@
-# 🛌 Puncak Dari Segala Kemalasan <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1Mjg2ODQsIm5iZiI6MTczMTUyODM4NCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTEzVDIwMDYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4Y2EyMzZmZjBkNDA0OGU2YzcwN2U5OWJkZGM2ODU3ZTg0MTJiMDJhMmFmY2RiNjU0MTQxMjdiZjgyZDFjZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZJEOjIi1pHW_O7i5ff4cdB3pKabp4mcRFikWq6aWENI" align="right" width="60" height="50">
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20in%20Bed%20Light%20Skin%20Tone.png" width="50px" /> Puncak Dari Segala Kemalasan
 
 <p align="center">
 "𝙄'𝙢 𝙞𝙣𝙩𝙤 𝙘𝙤𝙙𝙞𝙣𝙜 𝙖𝙣𝙙 𝙙𝙞𝙫𝙞𝙣𝙜 𝙙𝙚𝙚𝙥 𝙞𝙣𝙩𝙤 𝙞𝙩. 𝘼𝙡𝙨𝙤, 𝙄 𝙚𝙣𝙟𝙤𝙮 𝙚𝙙𝙞𝙩𝙞𝙣𝙜 𝙖𝙣𝙙 𝙜𝙚𝙩𝙩𝙞𝙣𝙜 𝙞𝙣𝙩𝙤 𝙣𝙚𝙬 𝙩𝙚𝙘𝙝 𝙨𝙩𝙪𝙛𝙛."
@@ -35,7 +35,7 @@
 
 <hr>
 
-## 🌐 My Social Media
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" /> My Social Media
 
    
 <div> 
