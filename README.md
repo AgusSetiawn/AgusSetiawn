@@ -35,7 +35,7 @@
 
 <hr>
 
-## 🌐 Social
+## 🌐 My Social Media
 
    
 <div> 
@@ -51,7 +51,34 @@
    
 ## 🌐  My Favorite Tools
 
-<details>
- <summary><strong>Stats</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
+
+<hr>
+
+## 🌐  More About Me
+
+<details open>
+ <summary><h2>📊 Stats and Activity</h2></summary>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=AgusSetiawn&theme=transparent)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AgusSetiawn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AgusSetiawn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+</p>
+</details>
+
+<br/>
+
+<details open>
+ <summary><h2>📘 My Projects</h2></summary>
+   <p align="left">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
+    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
+    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
+    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
+    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
+  </p>
+</details>
