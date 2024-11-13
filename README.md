@@ -56,7 +56,7 @@
 
 ## 🌐  More About Me
 
-<details open>
+<details >
  <summary><h2>📊 Stats and Activity</h2></summary>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=AgusSetiawn&theme=transparent)](https://git.io/streak-stats)
