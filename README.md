@@ -17,11 +17,13 @@
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCmbefdA6ph8q_Fxy2D9hK0Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/channel/UCmbefdA6ph8q_Fxy2D9hK0Q">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCmbefdA6ph8q_Fxy2D9hK0Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAgusSetiawnl%2FAgusSetiawn&label=VISITORS&labelColor=%23488207&countColor=%2355960C"/></a>  
       <a href="https://github.com/AgusSetiawn?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AgusSetiawn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AgusSetiawn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>          
    </p>
+
    
-### My Popular Videos <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" align="left" width="25" height="25"> 
+## My Popular Videos <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" align="left" width="25" height="25"> 
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
 <!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
@@ -33,7 +35,7 @@
 
 <hr>
 
-### 🌐 Social
+## 🌐 Social
 
    
 <div> 
@@ -47,8 +49,7 @@
   <a href="https://www.linkedin.com/in/agus-setiawann-77223a309" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
    
-### 🌐 Social
-
+## 🌐  My Favorite Tools
 
 <details>
  <summary><strong>Stats</strong></summary>
