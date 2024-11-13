@@ -56,6 +56,16 @@
 
 ## 🌐  More About Me
 
+<br/>
+
+<details open>
+ <summary><h2>📘 My Projects</h2></summary>
+  <h2>Python</h2>
+   <p align="left">
+    <a href="https://github.com/AgusSetiawn/Myproject-Python_MusicPlayer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusSetiawn&repo=Myproject-Python_MusicPlayer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Myproject-Python_MusicPlayer"></a>
+  </p>
+</details>
+
 <details >
  <summary><h2>📊 Stats and Activity</h2></summary>
   
@@ -65,15 +75,4 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AgusSetiawn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 </p>
-</details>
-
-<br/>
-
-<details open>
- <summary><h2>📘 My Projects</h2></summary>
-
-  <h2>Python</h2>
-   <p align="left">
-    <a href="https://github.com/AgusSetiawn/Myproject-Python_MusicPlayer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusSetiawn&repo=Myproject-Python_MusicPlayer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Myproject-Python_MusicPlayer"></a>
-  </p>
 </details>
