@@ -1,4 +1,4 @@
-# 🛌 Puncak Dari Segala Kemalasan
+# 🛌 Puncak Dari Segala Kemalasan <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1Mjg2ODQsIm5iZiI6MTczMTUyODM4NCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTEzVDIwMDYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4Y2EyMzZmZjBkNDA0OGU2YzcwN2U5OWJkZGM2ODU3ZTg0MTJiMDJhMmFmY2RiNjU0MTQxMjdiZjgyZDFjZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZJEOjIi1pHW_O7i5ff4cdB3pKabp4mcRFikWq6aWENI" align="right" width="60" height="50">
 
 <p align="center">
 "𝙄'𝙢 𝙞𝙣𝙩𝙤 𝙘𝙤𝙙𝙞𝙣𝙜 𝙖𝙣𝙙 𝙙𝙞𝙫𝙞𝙣𝙜 𝙙𝙚𝙚𝙥 𝙞𝙣𝙩𝙤 𝙞𝙩. 𝘼𝙡𝙨𝙤, 𝙄 𝙚𝙣𝙟𝙤𝙮 𝙚𝙙𝙞𝙩𝙞𝙣𝙜 𝙖𝙣𝙙 𝙜𝙚𝙩𝙩𝙞𝙣𝙜 𝙞𝙣𝙩𝙤 𝙣𝙚𝙬 𝙩𝙚𝙘𝙝 𝙨𝙩𝙪𝙛𝙛."
@@ -21,7 +21,7 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AgusSetiawn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
    
-### 🔥 My Popular Videos
+### <img src="<img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1Mjg2ODQsIm5iZiI6MTczMTUyODM4NCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTEzVDIwMDYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4Y2EyMzZmZjBkNDA0OGU2YzcwN2U5OWJkZGM2ODU3ZTg0MTJiMDJhMmFmY2RiNjU0MTQxMjdiZjgyZDFjZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZJEOjIi1pHW_O7i5ff4cdB3pKabp4mcRFikWq6aWENI" align="right" width="25" height="25">" width="60" height="50"> My Popular Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
 <!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
@@ -47,3 +47,10 @@
   <a href="https://www.linkedin.com/in/agus-setiawann-77223a309" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
    
+### 🌐 Social
+
+
+<details>
+ <summary><strong>Stats</strong></summary>
+ <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
