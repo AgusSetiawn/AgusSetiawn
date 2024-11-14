@@ -49,25 +49,39 @@
   <a href="https://www.linkedin.com/in/agus-setiawann-77223a309" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
    
-## 🌐  My Favorite Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp"   width="30" />  My Favorite Tools
+
+###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp"   width="25" /> Software and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,pr,ae,ai,vscode,bootstrap,androidstudio,figma,git,github,windows,kali,linux" />
+  </a>
+</p>
+
+###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp"   width="25" /> Programming and Markup Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,py,md" />
+  </a>
+</p>
 
 
 <hr>
 
-## 🌐  More About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp"  width="30" /> More About Me
 
 <br/>
 
 <details open>
- <summary><h2>📘 My Projects</h2></summary>
-  <h2>Python</h2>
+ <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" width="30" />  My Projects</h2></summary>
+  <h3>Python</h3>
    <p align="left">
     <a href="https://github.com/AgusSetiawn/Myproject-Python_MusicPlayer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusSetiawn&repo=Myproject-Python_MusicPlayer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Myproject-Python_MusicPlayer"></a>
   </p>
 </details>
 
 <details >
- <summary><h2>📊 Stats and Activity</h2></summary>
+ <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" width="30" /> Stats and Activity</h2></summary>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=AgusSetiawn&theme=transparent)](https://git.io/streak-stats)
 
