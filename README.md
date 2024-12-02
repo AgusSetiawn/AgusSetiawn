@@ -18,8 +18,8 @@
       <a href="https://www.youtube.com/channel/UCmbefdA6ph8q_Fxy2D9hK0Q">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCmbefdA6ph8q_Fxy2D9hK0Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAgusSetiawnl%2FAgusSetiawn&label=VISITORS&labelColor=%23488207&countColor=%2355960C"/></a>  
-      <a href="https://github.com/AgusSetiawn?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AgusSetiawn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>          
+     <!-- <a href="https://github.com/AgusSetiawn?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AgusSetiawn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->    
    </p>
 
    
