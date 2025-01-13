@@ -1,3 +1,6 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20in%20Bed%20Light%20Skin%20Tone.png" width="50px" /> Puncak Dari Segala Kemalasan
 
 <p align="center">
